@@ -1,7 +1,7 @@
 # Font-awesome-template
 
 
-### Basic example
+## Basic example
 
 ```html
 <!DOCTYPE html>
@@ -20,8 +20,8 @@
    </body>
     </html>
 ```
-# Explained
-First, open *[Font Awesome](https://example.com)*. Then create a basic html file, kinda like this:
+## Explained
+First, open *[Font Awesome](https://fontawesome.com)*. Then create a basic html file, kinda like this:
 
 ```html
 <!DOCTYPE html>
@@ -36,4 +36,9 @@ First, open *[Font Awesome](https://example.com)*. Then create a basic html file
     
 </body>
 </html>
+```
+Then, create a *[Font Awesome](https://fontawesome.com)* account. Now copy the link you got from *[Font Awesome](https://fontawesome.com)*.
+Now with that link, use it as a stylesheet. Here is how that goes:
+```html
+<link rel="stylesheet" href="fontawesome.com/fontawesome-free/scss/solid.scss">
 ```
