@@ -20,4 +20,4 @@
    </body>
     </html>
 ```
-First, open [Font Awesome](https://example.com)
+First, open *[Font Awesome](https://example.com)*
