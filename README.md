@@ -20,4 +20,5 @@
    </body>
     </html>
 ```
-First, open *[Font Awesome](https://example.com)*
+# Explained
+First, open *[Font Awesome](https://example.com)*.
