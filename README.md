@@ -40,5 +40,5 @@ First, open *[Font Awesome](https://fontawesome.com)*. Then create a basic html 
 Then, create a *[Font Awesome](https://fontawesome.com)* account. Now copy the link you got from *[Font Awesome](https://fontawesome.com)*.
 Now with that link, use it as a stylesheet. Here is how that goes:
 ```html
-<link rel="stylesheet" href="fontawesome.com/fontawesome-free/scss/solid.scss">
+<link rel="stylesheet" href="fontawesome.com/releases/v6.0.0-beta3/scss/solid.scss">
 ```
