@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v6.0.0-beta3/css/all.css">
     <title>Example</title>
    <body>
-   <!--add your icons here--!>
+   <!---add your icons here---!>
    </body>
     </html>
 ```
