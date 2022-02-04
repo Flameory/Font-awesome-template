@@ -1,2 +1,2 @@
 # Font-awesome-template
-[use]
+[![Build Status]
