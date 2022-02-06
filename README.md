@@ -1,5 +1,6 @@
 # Font-awesome-template
-A basic tutorial teaching you how to use font awesome icons
+A basic tutorial teaching you how to use font awesome icons.
+For a "live" demo, check out <em><a href="https://Font-awesome-live-demo.flameory.repl.co">the live demo<a></em>
 
 ## Basic example
 This is an example, it displays the Github logo.
