@@ -62,5 +62,6 @@ With all changes, this is how it looks like:
     </html>
 ```
 ## Final comments
-And, remember that if you want to make a cool hover effect or something like that, that you use the color method ```html
-color:#fffff;
+And, remember that if you want to make a cool hover effect or something like that, that you use the color method.
+***
+Not the background color method.
