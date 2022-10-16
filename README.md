@@ -63,5 +63,28 @@ With all changes, this is how it looks like:
 ```
 ## Final comments
 And, remember that if you want to make a cool hover effect or something like that, that you use the color method.
-***
 Not the background color method.
+## Full CSS:
+Finally, here's the full css:
+```css
+body{
+   background-color: #2c323c;
+}
+i{
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  padding-bottom:20px;
+  color: #41ff8ad2;
+  place-items: center;
+  display: grid;
+  transition: 300ms;
+}
+i:hover{
+ color: #f1f1f1;
+}
+h1, p, h2, h3{
+  color: #f1f1f1;
+  font-family: sans-serif;
+}
+```
